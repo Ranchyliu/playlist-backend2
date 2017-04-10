@@ -75,5 +75,5 @@ You will get a 200 response with the following data:
 
 ## CI configuration
 [codeship link](https://app.codeship.com/projects/212556/configure_tests)
-updated.
+updated...
 
